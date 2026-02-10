@@ -8,6 +8,7 @@
 |------|------|------|
 | [Advanced C Programming](./Advanced_C_Programming/) | 進階 C 語言：記憶體管理、指標、結構體、檔案 I/O 等 | ✅ 完成 |
 | [C Programming for Embedded Applications](./C_Programming_Embedded/) | 嵌入式 C 語言：微控制器開發、暫存器操作、中斷處理 | ✅ 完成 |
+| [Basic C Programming](./basic_c/) | 基礎 C 語言：編譯流程、Static 變數、模組化設計 | ✅ 完成 |
 
 ## 🗂️ 目錄結構
 
@@ -17,10 +18,14 @@ linkedin-learning-notes/
 ├── Advanced_C_Programming/
 │   ├── README.md                      # 課程概述
 │   └── Advanced_C_Programming_Notes_Deep.md
-└── C_Programming_Embedded/
+├── C_Programming_Embedded/
+│   ├── README.md                      # 課程概述
+│   ├── Embedded_C_Course_Notes.md
+│   └── Exercise_Files_Guide.md
+└── basic_c/
     ├── README.md                      # 課程概述
-    ├── Embedded_C_Course_Notes.md
-    └── Exercise_Files_Guide.md
+    ├── C語言_static_變數完整指南.md
+    └── C語言編譯與模組化基礎.md
 ```
 
 ## ⚠️ 聲明
