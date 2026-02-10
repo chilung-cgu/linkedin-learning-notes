@@ -533,7 +533,8 @@ int main()
         printf(" %3d", numbers[x]);
     putchar('\n');
 
-    /* 氣泡排序核心邏輯 */
+    /* selection sort核心邏輯 */
+    /* 每一次選出最小的放最前面 */
     for(outer = 0; outer < SIZE; outer++)
         for(inner = outer + 1; inner < SIZE; inner++)
         {

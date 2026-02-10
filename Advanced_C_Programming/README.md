@@ -16,3 +16,4 @@
 | 檔案 | 說明 |
 |------|------|
 | [Advanced_C_Programming_Notes_Deep.md](./Advanced_C_Programming_Notes_Deep.md) | 完整深度筆記，涵蓋所有章節 |
+| [Exercise_Files_Guide.md](./Exercise_Files_Guide.md) | Exercise Files 快速導覽（40 個 .c 檔案重點摘要） |
