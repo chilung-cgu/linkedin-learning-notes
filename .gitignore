@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Exercise Files（受版權保護，請勿上傳）
+Ex_Files_*/
+Exercise_Files/
